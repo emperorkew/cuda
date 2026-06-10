@@ -1,0 +1,17 @@
+# Build
+cmake-build-*/
+build/
+
+# IDE
+.idea/
+
+# Compiled objects
+*.o
+*.obj
+*.bin
+*.out
+
+# CUDA compiled
+*.cubin
+*.fatbin
+*.ptx
